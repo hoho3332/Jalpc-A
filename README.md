@@ -60,7 +60,7 @@ Replace your website domain in **CNAME** file.
 
 ### Login with github
 
-You can login with github account,the web application use leancloud engine to realize it.when you logined in,your username in my blog is `gh_<your_github_username>`.
+You can login with github account,the web application use [leancloud engine](https://github.com/Jack614/Jalpc-A-engine) to realize it.when you logined in,your username in my blog is `gh_<your_github_username>`.
 
 ### Web analytics
 
@@ -97,6 +97,7 @@ Client get the web application files(html,css,js) from `http://angular.jack003.c
 * search page
 * pagination
 * donate
+* message
 
 ### Put in a Jalpc-A Plug
 
