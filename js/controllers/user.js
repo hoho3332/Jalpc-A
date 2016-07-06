@@ -49,6 +49,7 @@ userModelCtrl.controller('loginCtrl', function ($scope, $rootScope, $http, $cook
 userModelCtrl.controller('registerCtrl', function ($scope, $rootScope, $http, $cookies, $state, $timeout, toastr) {
     $cookies.get('SessionToken') && $rootScope.back();
     $rootScope.gray_bg = true;
+    $scope.regex = '[a-zA-Z0-9]+';
     $scope.submitForm = function(isValid) {
         if (isValid) {
             var req = {
