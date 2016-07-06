@@ -1,6 +1,6 @@
 # Jalpc-A.
 
-<https://Jack614.github.io>
+<http://angular.jack003.com>
 
 ![Jalpc-A](Jalpc-A.gif)
 
@@ -19,8 +19,8 @@ If you're completely new to Jekyll, I recommend checking out the documentation a
 **Fork** the repo, and then **clone** it so you've got the code locally.
 
 ```
-$ git clone https://github.com/<your githubname>/Jack614.github.io.git
-$ cd Jack614.github.io
+$ git clone https://github.com/<your githubname>/Jalpc-A.git
+$ cd Jalpc-A
 $ gem install jekyll # If you don't have jekyll installed
 $ rm -rf _site && jekyll server
 ```
@@ -52,7 +52,9 @@ You can host your Jekyll site for free with Github Pages. [Click here](https://p
 
 A configuration tweak if you're using a gh-pages sub-folder
 
-Rename the repository to `<your githubname>.github.io` and create a branch named `gh-pages` then you will get a **https** website: `https://<your githubname>.github.io`.
+### CNAME
+
+Replace your website domain in **CNAME** file.
 
 ## Features
 
@@ -98,7 +100,7 @@ Client get the web application files(html,css,js) from `http://angular.jack003.c
 
 ### Put in a Jalpc-A Plug
 
-If you want to give credit to the Jalpc-A theme with a link to my personal website <http://Jack614.github.io>, that'd be awesome. No worries if you don't.
+If you want to give credit to the Jalpc-A theme with a link to my personal website <http://angular.jack003.com>, that'd be awesome. No worries if you don't.
  
 ### Enjoy
 
