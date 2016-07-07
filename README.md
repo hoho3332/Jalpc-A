@@ -1,10 +1,15 @@
-# Jalpc-A.
+# Jalpc-A.  [![Analytics](https://ga-beacon.appspot.com/UA-79921898-1/welcome-page)](http://Jack614.github.com/Jalpc-A)
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
+[![forthebadge](http://forthebadge.com/badges/uses-js.svg)](http://forthebadge.com)
 
 <http://angular.jack003.com>
 
 ![Jalpc-A](Jalpc-A.gif)
 
-Jalpc-A is a front end web application, it is written in Angularjs and the theme is similar with [Jalpc-A](http://Jack614.github.com/jalpc_jekyll_theme)
+Jalpc-A is a front end web application, it is written in Angularjs and the theme is similar with [Jalpc](http://Jack614.github.com/jalpc_jekyll_theme)
 
 We can register an account at this website and login to comment, only admin user can add blogs, if you like you can build a blog which everyone can add blogs,besides the app's backhend platform is based on [Leancloud](https://leancloud.cn/),you can use [Parse](https://parse.com/) as well.
 
