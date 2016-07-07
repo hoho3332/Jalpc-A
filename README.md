@@ -4,9 +4,9 @@
 
 ![Jalpc-A](Jalpc-A.gif)
 
-Jalpc-A is a front end web application, it is written in Angularjs and the style and theme is similar with [Jalpc-A](http://Jack614.github.com/jalpc_jekyll_theme)
+Jalpc-A is a front end web application, it is written in Angularjs and the theme is similar with [Jalpc-A](http://Jack614.github.com/jalpc_jekyll_theme)
 
-We can register an account at this website then login to do other things,since the backhend platform is based on [Leancloud](https://leancloud.cn/),you can use [Parse](https://parse.com/) as well.
+We can register an account at this website and login to comment, only admin user can add blogs, if you like you can build a blog which everyone can add blogs,besides the app's backhend platform is based on [Leancloud](https://leancloud.cn/),you can use [Parse](https://parse.com/) as well.
 
 If you like this Jekyll theme,please give me encouragement and star this project,I will make it better.
 
