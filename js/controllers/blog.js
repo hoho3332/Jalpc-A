@@ -10,6 +10,7 @@ blogModelCtrl.controller('blogsCtrl', function ($scope, $rootScope, $cookies, $t
         //$scope.username = resp.data.username;
     }).then(function () {
         $scope.username == $rootScope.Admin ? $scope.add = true: $scope.add = false;
+        $scope.username.indexOf('_') > -1 ? $scope.registerUser = true: $scope.registerUser = false;
     });
     $rootScope.landing_page = true;
     $scope.blogs = blogs;
